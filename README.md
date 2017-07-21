@@ -9,6 +9,7 @@ this package help you to create custom form with js object
 
 
 #example object
+```javascript
 const formify = [
   {
     node: 'input',
@@ -26,3 +27,4 @@ const formify = [
     options: ['one', 'two', 'three']
   }
 ];
+```
